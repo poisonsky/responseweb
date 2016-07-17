@@ -194,8 +194,8 @@ header .main ul li a{
         margin-left:0rem;
     }
     header .main ul{
-        width:100%;
-        margin:0 auto;
+        float:none;
+        text-align:center;
     }
 
 }
